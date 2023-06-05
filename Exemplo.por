@@ -13,6 +13,8 @@ programa
 			logico temGato = verdadeiro
 
 			escreva("Olá, meu nome é ",nome," tenho ",idade," anos e ",altura," de altura. \nSou do sexo ",sexo," e o fato de eu ter um gato é ",temGato," ")
+
+			//comentario teste
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -20,7 +22,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 179; 
+ * @POSICAO-CURSOR = 407; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
